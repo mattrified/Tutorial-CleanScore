@@ -4132,11 +4132,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7cf5963e64fabdb4489774a77500d02b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  useIntScore: 1
+  useIntScore: 0
   intScore: 0
-  floatScore: 1200.5
+  floatScore: 0.5
   cleanScore: {fileID: 1601270456}
-  decimalValue: 0
+  decimalValue: 2
   autoIncrease: 1
   updateString: 1
   textMeshProString: {fileID: 978751241}
